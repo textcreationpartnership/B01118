@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The industrious smith wherin is showne, how plain dealing is overthrown, that let a man do the best that he may, an idle huswife will work his decay, yet art is no burthen, though ill we may speed, our labour will help us in time of our need; to the tune of Yong man remember delights are but vain.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01118</idno>
+            <idno type="STC">STC 6073</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[158]</idno>
+            <idno type="EEBO-CITATION">99891908</idno>
+            <idno type="PROQUEST">ocm99891908</idno>
+            <idno type="VID">183003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183003)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The industrious smith wherin is showne, how plain dealing is overthrown, that let a man do the best that he may, an idle huswife will work his decay, yet art is no burthen, though ill we may speed, our labour will help us in time of our need; to the tune of Yong man remember delights are but vain.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper in Smithfield.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Signed: Humfrey Crowch.</note>
+                  <note>Verse: "There was a poor smith liv'd in a poor town ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="158" facs="tcp:183003:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <l>The induſtrious Smith wherin ſhowne,</l>
+               <l>How plain dealing is overthrown,</l>
+               <l>That let a man do the beſt that he may,</l>
+               <l>An idle huſwife will work his decay,</l>
+               <l>Yet art is no burthen; though ill we may ſpeed,</l>
+               <l>Our labour will help us in time of our need;</l>
+            </head>
+            <opener>To the tune of yong man remember delights are but vain.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <p>Quem rion<g ref="char:punc">▪</g>
+                     </p>
+                     <p>Huc, huc pierides.</p>
+                     <p>Caſtalius or Vinum Hiſpanenſe</p>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THere was a poor Smith liv'd in a poor town,</l>
+                  <l>That had a loving wife bonny and brown,</l>
+                  <l>And though he were very diſcréet and wiſe,</l>
+                  <l>Yet would he do nothing without her adviſe,</l>
+                  <l>His ſtock it grew low, full well he did know,</l>
+                  <l>He told his wife what he intended to do,</l>
+                  <lg type="refrain">
+                     <l>Quoth he, ſwéet wife, if I can prevail,</l>
+                     <l>I will ſhoo horſes, and thou ſhalt ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I ſée by my labour but little I thrive,</l>
+                  <l>And that againſt the ſtream I do ſtrive,</l>
+                  <l>By ſelling of Ale ſome mony is got,</l>
+                  <l>If every man honeſtly pay for his pot:</l>
+                  <l>By this may we kéep the Wolf from the door,</l>
+                  <l>And live in good faſhion though now we live poor,</l>
+                  <lg type="refrain">
+                     <l>If we have good cuſtome we ſhal have quick ſale,</l>
+                     <l>So may we live bravely by ſelling of Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Kind huſband, quoth ſhe, let be as you ſaid,</l>
+                  <l>It is the beſt motion that ever you made,</l>
+                  <l>A Stan of good Ale, let me have in,</l>
+                  <l>A dozen of good white bread in my Bin,</l>
+                  <l>Tobacco It be wiſe we muſt not forget,</l>
+                  <l>Men will call for it, when malt's above wheat.</l>
+                  <lg type="refrain">
+                     <l>When once it is known, then ore hill and dale,</l>
+                     <l>Men will come flocking to taſte of our Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>They ſent for a wench, her name it was <hi>Beſſe,</hi>
+                  </l>
+                  <l>And her they hired to welcome their gheſſe,</l>
+                  <l>They took in good Ale and many things me,</l>
+                  <l>The Smith had got him two ſtrings to his bow,</l>
+                  <l>Good fellows come in, and began for to rore,</l>
+                  <l>The Smith he was never ſo troubled before,</l>
+                  <lg type="refrain">
+                     <l>But quoth the good wife, ſwéet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Smith went to his work every day,</l>
+                  <l>But ſtill one or other would call him away.</l>
+                  <l>For now he had got him the name of an Hoſt,</l>
+                  <l>It coſt him many a pot and a toſte,</l>
+                  <l>Beſides much precious time he now loſt,</l>
+                  <l>And thus the poor Smith was every day croſt,</l>
+                  <lg type="refrain">
+                     <l>But, quoth the good wife, ſwéet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Men run on the ſcore and little they paid</l>
+                  <l>Which made the poor Smith be greatly diſmaid</l>
+                  <l>And bonny Biſſe though ſhe were not ſlack,</l>
+                  <l>To welcom her gueſſe, yet things went to wrack</l>
+                  <l>For the would exchange a pot for a kiſſe,</l>
+                  <l>Which any fellow ſhould ſeldom times miſſe.</l>
+                  <lg type="refrain">
+                     <l>But quoth the good wife, ſwéet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Smith went abroad, at length her came</l>
+                  <l>And found his maid, and man in a room, home</l>
+                  <l>Both drinking together foot to foot,</l>
+                  <l>To ſpeak unto them he thought twas no boot,</l>
+                  <l>For they were both drunk and could not reply,</l>
+                  <l>To make an excuſe as big as a lye.</l>
+                  <lg type="refrain">
+                     <l>But quoth the good wife, ſweet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He came home again and there he did ſée</l>
+                  <l>His Wife kindly ſitting on a mans knee,</l>
+                  <l>And though he ſaid litle, yet he thought the more</l>
+                  <l>And who could blame the poore Witt all therfore,</l>
+                  <l>He hugd her &amp; kiſt her though Vulan ſtood by,</l>
+                  <l>Which made him to grumble, and look all awry.</l>
+                  <lg type="refrain">
+                     <l>But quoth the good wife, ſwéet hart do not rapl,</l>
+                     <l>Theſe things muſt he if we ſell Ale.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="159" facs="tcp:183003:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 10 -->
+               <head>The ſecond part</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>A</hi> Sort of Saylers were drinking one night,</l>
+                  <l>And when they were drunk began for to fight</l>
+                  <l>The Smith came to part them, as ſome do report,</l>
+                  <l>And for his good will was beat in ſuch ſort,</l>
+                  <l>That he could not lift his arms to his head,</l>
+                  <l>Nor yet very hardly créep up to his bed.</l>
+                  <lg type="refrain">
+                     <l>But quoth the good Wife, ſwéet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Smith by chance a good fellow had met,</l>
+                  <l>That for ſtrong Ale was much in his debt,</l>
+                  <l>He aſkt him for mony, quoth he, by your leave,</l>
+                  <l>I owe you no mony nor none you ſhall have,</l>
+                  <l>I owe to your wife and her I will pay,</l>
+                  <l>The Smith he was vext and departed away.</l>
+                  <lg type="refrain">
+                     <l>Alas, who could blame him if now he do rayl.</l>
+                     <l>Theſe things ſhould not be though they ſold Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Old debts muſt be paid, O why ſhould they not,</l>
+                  <l>The fellow wont home to pay the old ſhot,</l>
+                  <l>The Smith followed after and they ſell at ſtrife,</l>
+                  <l>For he found this fellow in bed with his Wife,</l>
+                  <l>He fretted and fumed, he curſt, and he ſwore,</l>
+                  <l>Quoth ſhe, he is come to pay the old ſcore.</l>
+                  <lg type="refrain">
+                     <l>And ſtill ſhe cryde, good ſwéet hart do not rayl,</l>
+                     <l>For theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A flock of good fellows all Smiths by their trade,</l>
+                  <l>Within a while after a holiday made,</l>
+                  <l>Vnto the Smiths houſe they came then with ſpéed,</l>
+                  <l>And there they were wondrous merry indéed,</l>
+                  <l>With my not and thy put to rayſe the ſcore hier,</l>
+                  <l>Mine Ooſt was ſo drunk he fell in the fire.</l>
+                  <lg type="refrain">
+                     <l>But quoth the good Wife, ſwéet hart no not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Mine Oaſt being drunk and looſe in his joynts,</l>
+                  <l>He took an occaſion to untruſſe his points,</l>
+                  <l>The vault it was nere, but borded but ſlight,</l>
+                  <l>The Smith he was heavy and could not tred light,</l>
+                  <l>The bords broke aſunder, and down he fell in,</l>
+                  <l>It was a worſe matter then breaking his ſhin,</l>
+                  <lg type="refrain">
+                     <l>But quoth the good Wife, ſéét heart do not rayl,</l>
+                     <l>Theſe things muſt be it we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Happy is be who when he doth ſtumble,</l>
+                  <l>Knowes the ground well before he do tumble,</l>
+                  <l>But ſo did not he, for he had forgotten,</l>
+                  <l>The bords which he trod on were ſo rotten,</l>
+                  <l>He moved the houſe to mirth and to laughter,</l>
+                  <l>His clothes they ſtunk at leaſt a month after,</l>
+                  <lg type="refrain">
+                     <l>But, quoth the good Wife, ſwéet hart do not rayl,</l>
+                     <l>Theſe things muſt be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But men ran ſo much with him on the ſcore,</l>
+                  <l>That Vulcan at laſt grew wondrous poor,</l>
+                  <l>He owed the Brewer and Baker ſo much,</l>
+                  <l>They thretned to arreſt him, his caſe it way ſuch,</l>
+                  <l>He went to his Anvill, to my pot and thine,</l>
+                  <l>He torn'd out his Maid he puld down his Signe.</l>
+                  <lg type="refrain">
+                     <l>But O (quoth the good Wife) why ſhould we fail,</l>
+                     <l>Theſe things ſhould not be if we ſell Ale.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Smith &amp; his boy went to work for ſome chink,</l>
+                  <l>To pay for the liquor which others did drink,</l>
+                  <l>Of all trades in London, few break as I heare,</l>
+                  <l>That ſell Tobacco ſtrong Ale and good Béer,</l>
+                  <l>They might have done better, but they were loth,</l>
+                  <l>To fill up their meaſure with nothing but froth.</l>
+                  <lg type="refrain">
+                     <l>Let no Ale-houſe kéeper at my Song rayl,</l>
+                     <l>Theſe things muſt be it they ſell Ale.</l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>Humfrey Crowch.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for RICHARD HARPER in Smithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
